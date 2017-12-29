@@ -26,7 +26,7 @@ $('.contact-form').on('submit', function(e) {
 		var comments = $('#comments').val();
 
 		$.ajax({
-				url:'https://formspree.io/me@artemsheludko.pw',
+				url:'https://formspree.io/jkarteaga@gmail.com',
 				method:'POST',
 				data:{
 						name:name,
